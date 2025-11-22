@@ -2,7 +2,7 @@
 # Check out my profile Lovensky Henriscar  
 
 ## Software Developer
-Currently working with React Native and studying C# .NET Framework.
+
 
 ⚡ **Hard Skills**
 
